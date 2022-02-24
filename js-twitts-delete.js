@@ -18,5 +18,5 @@ setInterval(
             $( t[i] ).trigger( 'click' ); // click and remove button from dom
             $( 'button.delete-action' ).trigger( 'click' ); // click and remove button from dom
             }
-            }, 2000
+            }, 200000000000
             )
